@@ -1,5 +1,8 @@
 # Prowl.Veldrid
 
+# NOTE: This repository has been archived and moved to [Prowl.Graphite](https://github.com/ProwlEngine/Prowl.Graphite)
+Active development will continue there, however this fork has diverged enough from the original Veldrid/NeoVeldrid repositories that it would be a disservice to call it the same library or a fork. It has taken a lot from those repos and owes a lot of development time to them, but is evolving in a different direction.
+
 A cut up version of ciberman's NeoVeldrid repository -
 
 The previous Pipeline API has been gutted in favor of a monolithic `ShaderProgram` object, which encapsulates pipeline data slightly differently.
